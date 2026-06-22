@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Political_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Political_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-political/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Political_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
