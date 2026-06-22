@@ -15,14 +15,14 @@
 
 	<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
 	<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-		
+
 	<!-- wp:spacer {"height":"var:preset|spacing|80"} -->
 	<div style="height:var(--wp--preset--spacing--80)" aria-hidden="true" class="wp-block-spacer"></div>
 	<!-- /wp:spacer -->
 
 	<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained"}} -->
 	<div class="wp-block-group">
-		
+
 	<!-- wp:heading {"textAlign":"center","level":1,"align":"wide"} -->
 	<h1 class="wp-block-heading alignwide has-text-align-center"><?php esc_html_e( 'Ooops!', 'patterns-political' ); ?></h1>
 	<!-- /wp:heading -->

@@ -18,7 +18,7 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|20"},"border":{"radius":{"topRight":"5px","bottomRight":"5px"}}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-default-background-color has-background" style="border-top-right-radius:5px;border-bottom-right-radius:5px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--50)">
-	
+
 <!-- wp:heading {"level":5,"align":"wide"} -->
 <h5 class="wp-block-heading alignwide"><?php esc_html_e( 'Let’s Make Country Great with Polimark', 'patterns-political' ); ?></h5>
 <!-- /wp:heading -->
