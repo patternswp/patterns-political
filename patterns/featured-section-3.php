@@ -18,7 +18,7 @@
 	<div class="wp-block-columns alignwide are-vertically-aligned-center">
 		<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
-			
+
 			<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained","wideSize":""}} -->
 			<div class="wp-block-group">
 				<!-- wp:paragraph {"align":"left","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1px"}},"fontSize":"x-small"} -->
@@ -113,7 +113,7 @@
 				<!-- /wp:group -->
 			</div>
 			<!-- /wp:group -->
-		
+
 		</div>
 		<!-- /wp:column -->
 	</div>

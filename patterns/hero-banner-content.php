@@ -13,7 +13,7 @@
 ?>
 <!-- wp:columns {"metadata":{"name":"Hero content"},"verticalAlignment":"center","align":"wide"} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center">
-    
+
 <!-- wp:column {"verticalAlignment":"center","width":"50%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"level":1} -->
 <h1 class="wp-block-heading"><?php esc_html_e( 'Leadership. Experience. Values.', 'patterns-political' ); ?></h1>

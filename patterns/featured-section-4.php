@@ -19,7 +19,7 @@
 <!-- wp:columns {"verticalAlignment":"top","align":"wide","style":{"spacing":{"padding":{"top":"0px"},"blockGap":{"left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-top" style="padding-top:0px"><!-- wp:column {"verticalAlignment":"top"} -->
 <div class="wp-block-column is-vertically-aligned-top">
-    
+
 <!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
 <p class="has-text-align-left has-medium-font-size"><?php esc_html_e( 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an', 'patterns-political' ); ?></p>
 <!-- /wp:paragraph -->

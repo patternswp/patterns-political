@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:Page Event
+ * Title: Page Event
  * Slug: patterns-political/page-event
  * Categories: page
  * Keywords: Page
